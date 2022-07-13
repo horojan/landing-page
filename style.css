@@ -77,3 +77,19 @@ footer {
     height: 75%;
     max-width: 100%;
 }
+
+.cards-container {
+    display: flex;
+}
+
+.card-palette {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.palette {
+    height: 140px;
+    width: 140px;
+    border: 1px solid black;
+}
