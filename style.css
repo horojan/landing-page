@@ -70,7 +70,6 @@ footer {
 
 .intro-right {
     display: flex;
-    justify-content: center;
 }
 
 .hero-img {
@@ -79,6 +78,7 @@ footer {
 }
 
 .cards-container {
+    padding: 96px;
     display: flex;
 }
 
