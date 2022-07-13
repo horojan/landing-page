@@ -1,3 +1,9 @@
+ul, a {
+    color: #E5E7EB;
+    list-style: none;
+    text-decoration: none;
+}
+
 footer {
     color: white;
     background-color: #1F2937;
@@ -10,4 +16,13 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.li-container {
+    display: flex;
 }
