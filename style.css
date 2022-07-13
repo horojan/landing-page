@@ -24,7 +24,12 @@ button {
     background-color: #3882F6;
     padding-left: 16px;
     padding-right: 16px;
-    border: 2px solid white
+    border: 1px solid white
+}
+
+img {
+    max-height: 75%;
+    max-width: 100%;
 }
 
 footer {
@@ -54,7 +59,19 @@ footer {
 }
 
 .introduction {
-    padding-left: 96px;
-    padding-right: 96px;
+    padding: 96px;
     background-color: #1F2937;
+    display: flex;
+    gap: 1rem; 
+}
+
+.intro-left {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.intro-right {
+    display: flex;
+    justify-content: center;
 }
