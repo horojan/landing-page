@@ -19,6 +19,14 @@ ul, li, a {
     margin: .5rem;
 }
 
+button {
+    color: white;
+    background-color: #3882F6;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 2px solid white
+}
+
 footer {
     color: white;
     background-color: #1F2937;
