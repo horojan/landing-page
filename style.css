@@ -1,7 +1,8 @@
-ul, a {
+ul, li, a {
     color: #E5E7EB;
     list-style: none;
     text-decoration: none;
+    padding: 0;
 }
 
 footer {
