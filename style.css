@@ -32,14 +32,14 @@ blockquote {
 
 footer {
     color: white;
-    background-color: #1F2937;
+    background-color: #56B0BB;
     margin-top: auto;
     display: flex;
     justify-content: center;
 }
 
 .navbar {
-    background-color: #1F2937;
+    background-color: #56B0BB;
     padding-left: 96px;
     padding-right: 96px;
     display: flex;
@@ -58,7 +58,7 @@ footer {
 
 .introduction {
     padding: 96px;
-    background-color: #1F2937;
+    background-color: #56B0BB;
     display: flex;
     align-items: center;
     gap: 2rem;
@@ -121,13 +121,13 @@ footer {
 }
 
 .quote {
-    background-color: #E5E7EB;
+    background-color: #56B0BB;
 }
 
 .action {
     margin: 96px;
     border-radius: 10px;
-    background-color: #3882F6;
+    background-color: #B03A55;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -149,6 +149,6 @@ footer {
     padding-top: 3px;
     padding-bottom: 3px;
     color: white;
-    background-color: #3882F6;
+    background-color: #B03A55;
     border: 2px solid white;
 }
