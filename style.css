@@ -23,14 +23,6 @@ ul, li, a {
     margin: .5rem;
 }
 
-button {
-    color: white;
-    background-color: #3882F6;
-    padding-left: 16px;
-    padding-right: 16px;
-    border: 1px solid white;
-}
-
 blockquote {
     font-size: 36px;
     font-style: italic;
@@ -76,6 +68,11 @@ footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
+}
+
+.intro-btn {
+    border-radius: 5px;
+
 }
 
 .intro-right {
