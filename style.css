@@ -72,7 +72,8 @@ footer {
 .intro-btn {
     border-radius: 5px;
     color: white;
-    background-color: #3882F6;
+    padding: 5px;
+    background-color: #B03A55;
     border: none;
 }
 
