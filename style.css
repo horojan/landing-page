@@ -124,3 +124,10 @@ footer {
 .quote {
     background-color: #E5E7EB;
 }
+
+.action {
+    margin: 96px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    display: flex;
+}
