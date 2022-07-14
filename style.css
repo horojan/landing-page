@@ -10,6 +10,10 @@ h1 {
     font-size: 48px;
 }
 
+h2 {
+    text-align: center;
+}
+
 ul, li, a {
     font-size: 18px;
     color: #E5E7EB;
