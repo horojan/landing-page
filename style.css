@@ -75,6 +75,15 @@ footer {
     padding: 5px;
     background-color: #B03A55;
     border: none;
+    transition-duration: 0.4s;
+}
+
+.intro-btn:hover {
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    background-color: #C95857;
+    border: none;
 }
 
 .intro-right {
@@ -151,5 +160,17 @@ footer {
     padding-bottom: 3px;
     color: white;
     background-color: #B03A55;
+    border: 2px solid white;
+    transition-duration: 0.4s;
+}
+
+.action-btn:hover {
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+    background-color: #C95857;
     border: 2px solid white;
 }
