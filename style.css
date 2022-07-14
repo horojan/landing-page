@@ -129,6 +129,10 @@ footer {
     align-items: center;
 }
 
+.act-left {
+    color: white;
+}
+
 .act-right {
     display: flex;
     align-items: center;
