@@ -95,4 +95,5 @@ footer {
     height: 140px;
     width: 140px;
     border: 1px solid black;
+    border-radius: 15px;
 }
