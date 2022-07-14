@@ -137,3 +137,11 @@ footer {
     display: flex;
     align-items: center;
 }
+
+.action-btn {
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
