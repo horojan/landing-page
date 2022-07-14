@@ -1,7 +1,6 @@
 body {
     min-height: 100vh;
     margin: 0 auto;
-    text-align: center;
     display: flex;
     flex-direction: column;
 }
@@ -130,4 +129,11 @@ footer {
     border-radius: 10px;
     background-color: #3882F6;
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.act-right {
+    display: flex;
+    align-items: center;
 }
