@@ -94,6 +94,21 @@ footer {
 .palette {
     height: 140px;
     width: 140px;
-    border: 1px solid black;
     border-radius: 15px;
+}
+
+.one {
+    background-color: #d0a3be;
+}
+
+.two {
+    background-color: #56b0bb;
+}
+
+.three {
+    background-color: #c95857;
+}
+
+.four {
+    background-color: #b03a55;
 }
