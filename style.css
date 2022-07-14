@@ -77,7 +77,11 @@ footer {
 }
 
 .intro-right {
+    color: #c95857;
     display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: column;
 }
 
 .hero-img {
