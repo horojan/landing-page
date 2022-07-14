@@ -1,3 +1,3 @@
 # odin-design
 
-For The Odin Project's 2nd assignment about design layout.
+The second major project of TOP, a design layout using everything I've learned (for now).
