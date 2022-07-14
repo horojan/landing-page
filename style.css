@@ -147,4 +147,7 @@ footer {
     padding-right: 1rem;
     padding-top: 3px;
     padding-bottom: 3px;
+    color: white;
+    background-color: #3882F6;
+    border: 2px solid white;
 }
