@@ -78,7 +78,10 @@ footer {
 }
 
 .cards-container {
-    padding: 96px;
+    padding-left: 96px;
+    padding-right: 96px;
+    padding-top: 25px;
+    padding-bottom: 96px;
     display: flex;
 }
 
