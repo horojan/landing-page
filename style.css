@@ -28,6 +28,13 @@ button {
     border: 1px solid white;
 }
 
+blockquote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 96px;
+}
+
 footer {
     color: white;
     background-color: #1F2937;
@@ -112,4 +119,8 @@ footer {
 
 .four {
     background-color: #b03a55;
+}
+
+.quote {
+    background-color: #E5E7EB;
 }
